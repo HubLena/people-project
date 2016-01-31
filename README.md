@@ -6,4 +6,4 @@
  * Java
  * Instances
 
- [Jean-francois Nepton](http://sqasolution.com)
+ [Gelena Finberg](https://github.com/HubLena/)
